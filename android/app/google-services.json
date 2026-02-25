@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70253499417",
+    "project_id": "arova1",
+    "storage_bucket": "arova1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70253499417:android:e53fb0a0a32c4d8e398688",
+        "android_client_info": {
+          "package_name": "com.example.arova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzs9JX8StxzNza1K4it6SmoR--0UDXG_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
